@@ -2,7 +2,7 @@
 // Faz cache dos ficheiros da app para que funcione sem ligação à internet.
 // Os dados do resumo (JSON colado/carregado) ficam guardados à parte, em localStorage.
 
-const CACHE_NAME = "abs-mobile-v5";
+const CACHE_NAME = "abs-mobile-v6";
 const APP_SHELL = [
   "./index.html",
   "./manifest.json",
